@@ -15,7 +15,7 @@
 |  **Jiahao.Qi** | **2362068** | Grade 3 student majored Information and Computing Science, who are proficent in Python, Java, C++, Machine Learning & Network|
 |  **Shuobai.Chen** | **[ID 2]** | Grade 3 student majored Information and Computing Science, skilled in vibe coding and story telling |
 | **Zhenxi.Chen** | **[ID 3]** | [1–2 sentences] |
-|  **Antian.Sun** | **[ID 4]** | [1–2 sentences] |
+|  **Antian.Sun** | **2362202** | [1–2 sentences] |
 
 **Team roles (optional):**
 - Product/Research: [Name]
