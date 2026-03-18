@@ -1,5 +1,3 @@
----
----
 # Group Page & Personas
 
 ## Project
@@ -13,7 +11,7 @@
 > Note: Photos are used with members’ permission.
 
 | Name | Student ID | Brief introduction |
-|---|---|---|---|
+|---|---|---|
 |  **Jiahao.Qi** | **2362068** | [ Grade 3 student majored Information and Computing Science, who are proficent in Python, Java, C++, Machine Learning & Network|
 |  **Shuobai.Chen** | **[ID 2]** | Grade 3 student majored Information and Computing Science, skilled in vibe coding and story telling |
 | **Zhenxi.Chen** | **[ID 3]** | [1–2 sentences] |
