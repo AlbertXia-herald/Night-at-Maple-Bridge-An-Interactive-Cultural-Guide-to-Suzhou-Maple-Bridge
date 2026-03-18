@@ -1,4 +1,6 @@
-# Week 2 Homework — Group Page & Personas
+---
+---
+# Group Page & Personas
 
 ## Project
 **Project name:** _Night at Maple Bridge: An Interactive Cultural Guide to Suzhou Maple Bridge_  
@@ -10,12 +12,12 @@
 
 > Note: Photos are used with members’ permission.
 
-| Photo | Name | Student ID | Brief introduction |
+| Name | Student ID | Brief introduction |
 |---|---|---|---|
-| ![Member 1](assets/member1.jpg) | **Jiahao.Qi** | **2362068** | [1–2 sentences: role, strengths, interest] |
-| ![Member 2](assets/member2.jpg) | **Shuobai.Chen** | **[ID 2]** | [1–2 sentences] |
-| ![Member 3](assets/member3.jpg) | **ZhenXi.Chen** | **[ID 3]** | [1–2 sentences] |
-| ![Member 4](assets/member4.jpg) | **AnTian.Sun** | **[ID 4]** | [1–2 sentences] |
+|  **Jiahao.Qi** | **2362068** | [ Grade 3 student majored Information and Computing Science, who are proficent in Python, Java, C++, Machine Learning & Network|
+|  **Shuobai.Chen** | **[ID 2]** | Grade 3 student majored Information and Computing Science, skilled in vibe coding and story telling |
+| **Zhenxi.Chen** | **[ID 3]** | [1–2 sentences] |
+|  **Antian.Sun** | **[ID 4]** | [1–2 sentences] |
 
 **Team roles (optional):**
 - Product/Research: [Name]
